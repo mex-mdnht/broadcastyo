@@ -1,0 +1,342 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"username"
+			],
+			[
+				"L",
+				"LINK2"
+			],
+			[
+				"Dar",
+				"DartScene"
+			],
+			[
+				"_ra",
+				"_randomTick"
+			],
+			[
+				"getN",
+				"getNumEnemiesInStage"
+			],
+			[
+				"_ga",
+				"_gameScreen"
+			],
+			[
+				"_e",
+				"_enemyContainer"
+			],
+			[
+				"add",
+				"addHitObject"
+			],
+			[
+				"ran",
+				"randomTick"
+			],
+			[
+				"random",
+				"_randomTick"
+			],
+			[
+				"set",
+				"setScale"
+			],
+			[
+				"dest",
+				"destRotation"
+			],
+			[
+				"_get",
+				"_getPositionInsideBound"
+			],
+			[
+				"_gt",
+				"_getRondomPointInsideScreen"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.yaml",
+			"settings":
+			{
+				"buffer_size": 103,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "mygoapp.go",
+			"settings":
+			{
+				"buffer_size": 793,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instALL",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 332.0
+	},
+	"console":
+	{
+		"height": 257.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/naohito/Documents/works/mygoapp/mygoapp.go",
+		"/C/Users/naohito/Documents/works/mygoapp/app.yaml",
+		"/C/Users/naohito/AppData/Roaming/Sublime Text 2/Packages/GoSublime/USAGE.md",
+		"/C/Users/naohito/AppData/Roaming/Sublime Text 2/Packages/GoSublime/CHANGELOG.md",
+		"/C/Users/naohito/Desktop/nanairo/sp/cm/js/curvycorners.src.js",
+		"/C/Users/naohito/Desktop/nanairo/sp/cm/js/curvycorners.js",
+		"/C/Users/naohito/Desktop/nanairo/sp/cm/index.html",
+		"/C/Users/naohito/Desktop/nanairo/sp/cm/js/index.js",
+		"/C/Users/naohito/Desktop/nanairo/sp/cm/css/index.css",
+		"/C/Users/naohito/Desktop/nanairo/sp/index.html",
+		"/C/Users/naohito/Desktop/nanairo/sp/css/index.css",
+		"/C/Users/naohito/AppData/Roaming/Sublime Text 2/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/C/Users/naohito/Documents/works/ma9/src/source/js/coffee_display/display/scene/DartScene.coffee",
+		"/C/Users/naohito/Documents/works/ma9/src/ma9.sublime-project",
+		"/C/Users/naohito/Documents/works/ma9/src/bower.json",
+		"/C/Users/naohito/Documents/works/ma9/src/Cakefile",
+		"/C/Users/naohito/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/naohito/Documents/works/bootcamp-4w/www/coffee/display/scene/result_scene.js",
+		"/C/Users/naohito/AppData/Roaming/Sublime Text 2/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+		"/C/Users/naohito/Documents/works/bootcamp-4w/www/coffee/zzz_main.coffee",
+		"/C/Users/naohito/Documents/works/bootcamp-4w/www/tapzoo.sublime-project"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"alert",
+			"bg",
+			"curvy",
+			"pr_bg",
+			"true"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.yaml",
+					"settings":
+					{
+						"buffer_size": 103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "mygoapp.go",
+					"settings":
+					{
+						"buffer_size": 793,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								147,
+								147
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.786999011496,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime-output":
+	{
+		"height": 100.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true
+}
